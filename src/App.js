@@ -6,6 +6,7 @@ import About from './About';
 import Skills from './Skills'
 import Education from './Education';
 import Contact from './Contact';
+import Projects from './Projects';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <HeroSection></HeroSection>
       <About></About>
       <Skills></Skills>
+      <Projects></Projects>
       <Education></Education>
       <Contact></Contact>
 
